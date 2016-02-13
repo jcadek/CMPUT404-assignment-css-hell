@@ -1,0 +1,176 @@
+//Licensed under CC-BY-Sa, James Cadek
+
+h3, p {
+  font-family: Cambria, Georgia, serif;
+}
+
+div.headerdiv {
+    position:absolute;
+    top:0%;
+    height:43%;
+    width:100%;
+
+    background: -webkit-radial-gradient(#0093C4,#0045CC, #0000FF);
+    radial-gradient(#0093C4,#0045CC, #0000FF);
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+div.nav {
+    position:absolute;
+    top:43%;
+    height:8%;
+    width:100%;
+    background:  -webkit-linear-gradient(top,#333333 40% ,#4F4F4F 60%);
+    border-style: none none solid none;
+    border-width: 4px;
+    border-color: blue;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+
+
+a { 
+	position:relative;
+	margin-left:50px;
+	
+    font-size:24px;
+    color: white;
+}
+
+a.home {
+	position:relative;
+    color:blue;
+	
+}
+
+
+h1 {
+	position:relative;
+    color:white;
+    font-size:108px;
+    font-family:font-family: cursive; 
+    text-align:center;
+}
+
+
+
+h1.titletext {
+    text-align:center;
+   font-size: 108px;
+
+    
+}
+
+div.subhead {
+ position:relative;
+margin-left:50px;
+
+}
+
+
+
+
+div.sidebar {
+    position:absolute;
+    top:51%;
+    left:80%;
+
+    width:20%;
+    background:#e6f2ff;
+}
+h3.sidetitle {
+    font-size:48px;
+    text-align:center;
+}
+h3.title {
+    font-size:48px;
+    margin-left:50px;
+}
+
+h3.hbody{
+    font-size:48px;
+    margin-left:50px;
+}
+
+p.sidebarcontent{
+   color:blue;
+   font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+   text-align:center;
+   font-size:32px;
+}
+
+p.subtitletext {
+	position:relative;
+	top:-30px;
+    font-size: 48px;
+   
+}
+div.body1 {
+position:relative;
+
+
+width:60%;
+;
+}
+div.body2 {
+position:relative;
+
+width:60%;
+
+}
+div.shead{
+    
+    position:relative;
+    top:51%;
+  
+    width:70%;
+	
+}
+p.pbody{
+    font-size:20px;
+	
+}
+
+p.hbody{
+	
+	position:relative;
+
+font-size:48px;
+
+
+}
+p.subhbody{
+position:relative;
+font-size:20px;
+
+
+
+}
+
+
+
+div.myimage {
+position:absolute;
+top:0%;
+right:0%;
+width:20%;
+
+}
+
+img {
+width:100%;
+height:100%;
+
+}
+div.allbody{
+	position:absolute;
+	top:52%;
+	width:79%;
+	background-color:#cccccc;
+	border-style:solid;
+}
+}

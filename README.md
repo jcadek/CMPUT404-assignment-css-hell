@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Gutenburg documents were only changed in the following ways:
+<link> and <style> groups removed
+<link> to new stylesheet added.
 
+W3schools was referenced when creating CSS, specifically for gradients.
